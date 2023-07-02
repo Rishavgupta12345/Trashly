@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_8"
+                android:orientation="vertical">
+
+
+
+                    <ImageView
+                        android:id="@+id/cameraupload"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dp_320"
+                        android:background="@drawable/box_dashed_line"
+                        app:srcCompat="@drawable/box_grey_bg_white" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_120"
+                    android:layout_marginStart="@dimen/dp_8"
+                    android:layout_marginTop="@dimen/dp_34"
+                    android:layout_marginEnd="@dimen/dp_8"
+                    android:orientation="vertical"
+                    android:background="@drawable/box_grey_bg_white" >
+
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/choose_photo"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center"
+                        android:textColor="@color/blue1"
+                        android:textSize="@dimen/dp_16" />
+
+                    <ImageView
+                        android:id="@+id/imageViewchooserPhoto"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:src="@drawable/choose_photo"
+                        app:tint="@color/blue1" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dp_16"
+                android:layout_marginEnd="@dimen/dp_8"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/dp_18">
+
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/buttonUpload"
+                    android:layout_width="@dimen/dp_160"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/box_blue_bg_blue"
+                    android:gravity="center"
+                    android:text="@string/upload"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white" />
+
+
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089034498472",
+    "project_id": "trashly-new",
+    "storage_bucket": "trashly-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034498472:android:cf70ac2171e4c8584bad9d",
+        "android_client_info": {
+          "package_name": "com.example.plastick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034498472-akg79gctn9p7b90h5o90uemp4et0jnkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFKZfP9uOziQ9yJCvtBTW_STyUGHFeaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034498472-akg79gctn9p7b90h5o90uemp4et0jnkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

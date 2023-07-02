@@ -1,16 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable-v24/box_black_bg_white.xml" value="0.144" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/arrow_right.xml" value="0.139" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/box_black_bg_white.xml" value="0.144" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/box_blue_bg_blue.xml" value="0.14" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/box_blue_bg_white.xml" value="0.14" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/box_dashed_line.xml" value="0.14" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/box_grey_bg_white.xml" value="0.144" />
         <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1225" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/ic_search.xml" value="0.139" />
         <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/drawable/splash_screen_back.xml" value="0.1" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.14089692101740295" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout-w936dp/activity_login.xml" value="0.164453125" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/activity_login.xml" value="0.21927083333333333" />
         <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/adapter_favourites.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_buypage.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_dashboard.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_home.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_maps.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_notifications.xml" value="0.2" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/fragment_upload_photo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/grid_item.xml" value="0.264" />
+        <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/layout/list_sell.xml" value="0.2" />
         <entry key="..\:/Users/risha/Desktop/Plastick/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
